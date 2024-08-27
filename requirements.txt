@@ -5,3 +5,4 @@ torchvision
 ultralytics
 face_recognition
 scikit-learn
+streamlit
